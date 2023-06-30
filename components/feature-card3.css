@@ -1,0 +1,198 @@
+.feature-card3-feature-card {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+.feature-card3-image {
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
+  object-fit: cover;
+}
+.feature-card3-text {
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 479px) {
+  .feature-card3-feature-card {
+    width: 40%;
+  }
+  .feature-card3-root-class-name50 {
+    width: auto;
+  }
+  .feature-card3-root-class-name51 {
+    width: auto;
+  }
+  .feature-card3-root-class-name52 {
+    width: auto;
+  }
+  .feature-card3-root-class-name53 {
+    width: auto;
+  }
+  .feature-card3-root-class-name54 {
+    width: auto;
+  }
+  .feature-card3-root-class-name55 {
+    width: auto;
+  }
+  .feature-card3-root-class-name56 {
+    width: auto;
+  }
+  .feature-card3-root-class-name57 {
+    width: auto;
+  }
+  .feature-card3-root-class-name58 {
+    width: auto;
+  }
+  .feature-card3-root-class-name59 {
+    width: auto;
+  }
+  .feature-card3-root-class-name60 {
+    width: auto;
+  }
+  .feature-card3-root-class-name61 {
+    width: auto;
+  }
+  .feature-card3-root-class-name62 {
+    width: auto;
+  }
+  .feature-card3-root-class-name63 {
+    width: auto;
+  }
+  .feature-card3-root-class-name64 {
+    width: auto;
+  }
+  .feature-card3-root-class-name65 {
+    width: auto;
+  }
+  .feature-card3-root-class-name66 {
+    width: auto;
+  }
+  .feature-card3-root-class-name67 {
+    width: auto;
+  }
+  .feature-card3-root-class-name68 {
+    width: auto;
+  }
+  .feature-card3-root-class-name69 {
+    width: auto;
+  }
+  .feature-card3-root-class-name70 {
+    width: auto;
+  }
+  .feature-card3-root-class-name71 {
+    width: auto;
+  }
+  .feature-card3-root-class-name72 {
+    width: auto;
+  }
+  .feature-card3-root-class-name73 {
+    width: auto;
+  }
+  .feature-card3-root-class-name74 {
+    width: auto;
+  }
+}

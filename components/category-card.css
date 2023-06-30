@@ -1,0 +1,35 @@
+.category-card-category-card {
+  flex: 0 0 auto;
+  cursor: pointer;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+}
+.category-card-category-card:hover {
+  color: var(--dl-color-pallet-yellow);
+  transform: scale(1.2);
+}
+.category-card-image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+@media(max-width: 767px) {
+  .category-card-image {
+    width: 190px;
+    height: 190px;
+  }
+}
+@media(max-width: 479px) {
+  .category-card-image {
+    width: 120px;
+    height: 120px;
+  }
+  .category-card-root-class-name {
+    align-self: stretch;
+  }
+}
